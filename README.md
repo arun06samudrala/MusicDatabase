@@ -13,5 +13,5 @@ Run the PROJECTSOURCE.sql file in the sql server as it also contains data for th
 Unzip the ADBMS.zip file and import it into talend and make the necessary connections 
 Run the master job
 Visualizations can be seen by downloading the tableau file
-***************************************************************************************************************************
+**************************************************************************************************************************
 Artist table ETL processing can also be done by using a sql trigger
